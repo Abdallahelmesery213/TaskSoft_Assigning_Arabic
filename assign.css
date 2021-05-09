@@ -1,0 +1,149 @@
+body {
+  background-image: url("./images/background-body.JPG");
+  background-repeat: repeat;
+}
+.assign-arabic {
+  direction: rtl;
+}
+.btn {
+  background-color: rgb(1 177 222);
+  padding: 2px 20px;
+}
+/* start inputs */
+.inputs {
+  background-color: #fff;
+  padding: 45px;
+  border: 8px solid rgb(242 242 242);
+}
+.inputs .first-row {
+  margin-bottom: 30px;
+}
+.inputs .second-row {
+  margin-bottom: 30px;
+}
+.inputs .third-row {
+  margin-bottom: 30px;
+}
+/* end inputs */
+
+/* start Assigning Tasks */
+.Assigning-Tasks {
+  border: 8px solid rgb(242 242 242);
+  padding: 40px;
+  margin-left: 40px;
+  background-color: #fff;
+  margin: 35px 0;
+}
+/* end Assigning Tasks */
+/* start submitted by */
+.submitted .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  background-color: #fff;
+}
+.submitted .border-title {
+  border-right: 6px solid rgb(0 78 188);
+}
+.submitted .image {
+  padding-right: 132px;
+}
+.submitted .h4 {
+  padding-left: 20px;
+}
+/* end submitted by */
+/* start task-details  */
+.task-details .parent {
+  width: 36%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.task-details .border-title {
+  border-right: 6px solid rgb(116 184 67);
+}
+.task-details .image {
+  padding-right: 116px;
+}
+.task-details .h4 {
+  padding-left: 20px;
+}
+/* end task-details by */
+/* start Supporting-Documents */
+.Supporting-Documents .parent {
+  width: 45%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 27%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.Supporting-Documents .border-title {
+  border-right: 6px solid rgb(1 177 222);
+}
+.Supporting-Documents .image {
+  padding-right: 45px;
+}
+.Supporting-Documents .h4 {
+  padding-left: 15px;
+}
+/* end Supporting-Documents */
+table {
+  border: 6px solid rgb(242 242 242);
+  background-color: #fff;
+  margin-top: 30px;
+}
+/* start Executed-By */
+.Executed-By .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 27%;
+  margin-right: 32%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.Executed-By .border-title {
+  border-right: 6px solid rgb(254 38 52);
+}
+.Executed-By .image {
+  padding-right: 45px;
+}
+.Executed-By .h4 {
+  padding-left: 105px;
+}
+/* end Executed-By */
+/* start Supported */
+.Supported .parent {
+  width: 49%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 22%;
+  margin-right: 32%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.Supported .border-title {
+  border-right: 6px solid rgb(255 162 0);
+}
+.Supported .image {
+  padding-right: 130px;
+}
+.Supported .h4 {
+  padding-left: 15px;
+}
+/* end Supported */
+.last-submit {
+  margin-bottom: 35px;
+}
